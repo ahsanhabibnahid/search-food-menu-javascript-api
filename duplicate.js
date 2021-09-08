@@ -1,8 +1,8 @@
 const mealName = document.getElementById("mealName");
 const mealSubmit = document.getElementById("mealSubmit");
-// const menuItem = document.getElementById("menuItem");
+const menuItem = document.getElementById("menuItem");
 
-const menuItem = document.querySelector("#menuItem")
+
 
 // load data from api
 
