@@ -15,6 +15,17 @@ body{
     margin: 20px;
     background-color: silver;
 }
+
+
+
+.item-details{
+    width: 400px;
+    margin: 30px auto;
+    background-color:rgb(82, 85, 85);
+}
 .menu-item img{
+    width: 100%;
+}
+.item-details img{
     width: 100%;
 }
