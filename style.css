@@ -1,0 +1,20 @@
+body{
+    background-color: #2d2013;
+}
+.menu{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.menu-item{
+    width: 300px;
+    /* border: 1px solid red; */
+    border-radius: 20px;
+    /* padding: 20px; */
+    text-align: center;
+    margin: 20px;
+    background-color: silver;
+}
+.menu-item img{
+    width: 100%;
+}
